@@ -1,0 +1,40 @@
+30
+Le Vu Bao Trung
+Dien tu 09
+3.99
+25
+Le Ngoc Duc Nhat
+Dien tu 09
+3.2
+67
+Le Van Nhat
+Dien tu 10
+3.1
+90
+Le Thi Dao 
+Quan li cong nghiep 01
+2.67
+89
+Nghiem Tuan Khoi
+Dien tu 09
+3.98
+70
+Le Thi Anh 
+Co khi 05
+2.0
+85
+Le Thi Tuyet Nhu 
+Co khi 07
+2.9
+48
+Le Thi Chi
+Det may 09
+3.15
+60
+Pham Minh Hieu
+Det may 08
+2.89
+18
+Pham Dinh Hieu
+KTHH 08
+2.28
